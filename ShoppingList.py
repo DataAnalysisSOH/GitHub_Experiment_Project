@@ -1,4 +1,4 @@
-AnnaShoppingList = ['Apple', 'Orange', 'Potatoes']
+AnnaShoppingList = ['Apple', 'Orange', 'Potatoes', 'Keyboard']
 LucyShoppingList = ['Strawberry', 'Soda']
 IanShoppingList = ['Basketball', 'Dance shoes']
 
