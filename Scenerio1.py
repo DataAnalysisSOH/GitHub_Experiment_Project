@@ -1,4 +1,7 @@
-# Version 1
+# Jun 24, 2022
+# Version2.5
+
+# 1
 print("This is first message!")
 print("This is second message!")
 print("This is third message!")
@@ -9,7 +12,7 @@ print("This is seventh message!")
 print("This is eighth message!")
 print("This is ninth message!")
 print("This is tenth message!")
-# Version 2
+# 2
 print("Lucy added eleventh message!")
-# Version 2.5
+# 2.5
 print("Lucy fixed the bug")
