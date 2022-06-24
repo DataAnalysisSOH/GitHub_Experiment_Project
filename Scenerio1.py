@@ -11,3 +11,5 @@ print("This is ninth message!")
 print("This is tenth message!")
 # Version 2
 print("Lucy added eleventh message!")
+# Version 2.5
+print("Lucy fixed the bug")
