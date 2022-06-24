@@ -1,5 +1,5 @@
 # Jun 24, 2022
-# Version2.5
+# Version3
 
 # 1
 print("This is first message!")
@@ -16,3 +16,5 @@ print("This is tenth message!")
 print("Lucy added eleventh message!")
 # 2.5
 print("Lucy fixed the bug")
+# 3
+print("I merged from master and work on version3..")
