@@ -12,5 +12,3 @@ print("This is seventh message!")
 print("This is eighth message!")
 print("This is ninth message!")
 print("This is tenth message!")
-
-print("Lucy's shopping list:(making strawberry Soda),I need:strawberry and soda")
